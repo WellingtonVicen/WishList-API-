@@ -1,0 +1,15 @@
+C:\Users\bebev\OneDrive\Área de Trabalho\Wishlist\src\2 - Domain\bin\Release\net5.0\Domain.deps.json
+C:\Users\bebev\OneDrive\Área de Trabalho\Wishlist\src\2 - Domain\bin\Release\net5.0\Domain.dll
+C:\Users\bebev\OneDrive\Área de Trabalho\Wishlist\src\2 - Domain\bin\Release\net5.0\ref\Domain.dll
+C:\Users\bebev\OneDrive\Área de Trabalho\Wishlist\src\2 - Domain\bin\Release\net5.0\Domain.pdb
+C:\Users\bebev\OneDrive\Área de Trabalho\Wishlist\src\2 - Domain\bin\Release\net5.0\Core.dll
+C:\Users\bebev\OneDrive\Área de Trabalho\Wishlist\src\2 - Domain\bin\Release\net5.0\Core.pdb
+C:\Users\bebev\OneDrive\Área de Trabalho\Wishlist\src\2 - Domain\obj\Release\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bebev\OneDrive\Área de Trabalho\Wishlist\src\2 - Domain\obj\Release\net5.0\Domain.AssemblyInfoInputs.cache
+C:\Users\bebev\OneDrive\Área de Trabalho\Wishlist\src\2 - Domain\obj\Release\net5.0\Domain.AssemblyInfo.cs
+C:\Users\bebev\OneDrive\Área de Trabalho\Wishlist\src\2 - Domain\obj\Release\net5.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\bebev\OneDrive\Área de Trabalho\Wishlist\src\2 - Domain\obj\Release\net5.0\Domain.csproj.CopyComplete
+C:\Users\bebev\OneDrive\Área de Trabalho\Wishlist\src\2 - Domain\obj\Release\net5.0\Domain.dll
+C:\Users\bebev\OneDrive\Área de Trabalho\Wishlist\src\2 - Domain\obj\Release\net5.0\ref\Domain.dll
+C:\Users\bebev\OneDrive\Área de Trabalho\Wishlist\src\2 - Domain\obj\Release\net5.0\Domain.pdb
+C:\Users\bebev\OneDrive\Área de Trabalho\Wishlist\src\2 - Domain\obj\Release\net5.0\Domain.csprojAssemblyReference.cache

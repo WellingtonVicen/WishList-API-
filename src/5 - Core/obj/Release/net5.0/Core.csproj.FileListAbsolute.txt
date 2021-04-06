@@ -1,0 +1,12 @@
+C:\Users\bebev\OneDrive\Área de Trabalho\Wishlist\src\5 - Core\bin\Release\net5.0\Core.deps.json
+C:\Users\bebev\OneDrive\Área de Trabalho\Wishlist\src\5 - Core\bin\Release\net5.0\Core.dll
+C:\Users\bebev\OneDrive\Área de Trabalho\Wishlist\src\5 - Core\bin\Release\net5.0\ref\Core.dll
+C:\Users\bebev\OneDrive\Área de Trabalho\Wishlist\src\5 - Core\bin\Release\net5.0\Core.pdb
+C:\Users\bebev\OneDrive\Área de Trabalho\Wishlist\src\5 - Core\obj\Release\net5.0\Core.csprojAssemblyReference.cache
+C:\Users\bebev\OneDrive\Área de Trabalho\Wishlist\src\5 - Core\obj\Release\net5.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bebev\OneDrive\Área de Trabalho\Wishlist\src\5 - Core\obj\Release\net5.0\Core.AssemblyInfoInputs.cache
+C:\Users\bebev\OneDrive\Área de Trabalho\Wishlist\src\5 - Core\obj\Release\net5.0\Core.AssemblyInfo.cs
+C:\Users\bebev\OneDrive\Área de Trabalho\Wishlist\src\5 - Core\obj\Release\net5.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\bebev\OneDrive\Área de Trabalho\Wishlist\src\5 - Core\obj\Release\net5.0\Core.dll
+C:\Users\bebev\OneDrive\Área de Trabalho\Wishlist\src\5 - Core\obj\Release\net5.0\ref\Core.dll
+C:\Users\bebev\OneDrive\Área de Trabalho\Wishlist\src\5 - Core\obj\Release\net5.0\Core.pdb

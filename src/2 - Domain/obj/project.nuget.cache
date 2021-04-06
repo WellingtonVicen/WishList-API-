@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WPsuHIMRhWMklHhtfNdk7RuTJb9FtGsRD62AgRMB90HKEA81QxVQlMBcHzB0i+RjBY9ooXbw2UAWKCco9F+o9w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bebev\\OneDrive\\Área de Trabalho\\Wishlist\\src\\2 - Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bebev\\.nuget\\packages\\fluentvalidation\\9.5.3\\fluentvalidation.9.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

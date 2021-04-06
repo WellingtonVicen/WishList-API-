@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\bebev\OneDrive\Área de Trabalho\Wishlist\src\1 - API\bin\Release\net5.0\publish\</_PublishTargetUrl>
+    <History>True|2021-04-06T07:53:35.8835733Z;True|2021-04-06T04:39:26.9538935-03:00;True|2021-04-06T04:34:28.4993091-03:00;True|2021-04-06T03:24:38.2738778-03:00;True|2021-04-06T03:22:37.1444936-03:00;True|2021-04-06T03:19:36.2756281-03:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="ITEM">
+      <Value>Server=192.168.0.2%3bPort=3306%3bDatabase=wishlistapi%3bUid=porps12%3bPwd=porpeta12%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="Infra.Context.ItemContext">
+      <Value>Server=192.168.0.2%3bPort=3306%3bDatabase=wishlistapi%3bUid=porps12%3bPwd=porpeta12%3b</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>
