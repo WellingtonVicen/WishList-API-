@@ -1,12 +1,12 @@
-using System;
-using System.Threading.Tasks;
 using API.Utilities;
 using API.ViewModels;
-using Core.Execptions;
 using AutoMapper;
+using Core.Execptions;
 using Microsoft.AspNetCore.Mvc;
 using Services.DTO;
 using Services.Interfaces;
+using System;
+using System.Threading.Tasks;
 
 namespace API.Controllers
 {

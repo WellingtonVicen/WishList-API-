@@ -1,6 +1,6 @@
-using System.Collections.Generic;
-using Domain.Validators;
 using Core.Execptions;
+using Domain.Validators;
+using System.Collections.Generic;
 
 namespace Domain.Entities
 {
@@ -18,12 +18,12 @@ namespace Domain.Entities
 
         public Item(string title, string description, string link, string photoUrl, bool wonOrBought)
         {
-            Title = title;
-            Description = description;
-            Link = link;
-            PhotoUrl = photoUrl;
-            WonOrBought = wonOrBought;
-            _errors = new List<string>();
+            this.Title = title;
+            this.Description = description;
+            this.Link = link;
+            this.PhotoUrl = photoUrl;
+            this.WonOrBought = wonOrBought;
+            this._errors = new List<string>();
 
             Validate();
 

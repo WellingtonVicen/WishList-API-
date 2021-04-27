@@ -8,17 +8,16 @@ namespace Domain.Validators
 
         public ItemValidator()
         {
-           RuleFor(x => x)
-           
-                .NotEmpty()
-                .WithMessage("O Produto não pode estar vazio.")
+            RuleFor(x => x)
 
-                .NotNull()
-                .WithMessage("O Produto não pode ser Nulo.");
+                 .NotEmpty()
+                 .WithMessage("O Produto não pode estar vazio.")
 
-                RuleFor(x => x.Title)
-                .NotNull()
-                .WithMessage("O titulo não pode esta nulo")
+            .NotNull()
+            .WithMessage("O Produto não pode ser Nulo.");
+
+            RuleFor(x => x.Title)
+               
 
                 .NotEmpty()
                 .WithMessage("O tilulo não pode estar vazio.")

@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infra", "src\4 - Infra\Infr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Core", "src\5 - Core\Core.csproj", "{A64F42F0-1049-4821-823F-CB4059CC1D46}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WishList.Domain.Test", "WishList.Domain.Test\WishList.Domain.Test.csproj", "{E01FE677-F255-4ED5-8679-C04A6CFE4ABE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{A64F42F0-1049-4821-823F-CB4059CC1D46}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A64F42F0-1049-4821-823F-CB4059CC1D46}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A64F42F0-1049-4821-823F-CB4059CC1D46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E01FE677-F255-4ED5-8679-C04A6CFE4ABE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E01FE677-F255-4ED5-8679-C04A6CFE4ABE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E01FE677-F255-4ED5-8679-C04A6CFE4ABE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E01FE677-F255-4ED5-8679-C04A6CFE4ABE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,7 +1,3 @@
-using System;
-using System.IO;
-using System.Reflection;
-using System.Security.Policy;
 using API.ViewModels;
 using AutoMapper;
 using Domain.Entities;
@@ -18,6 +14,9 @@ using Microsoft.OpenApi.Models;
 using Services.DTO;
 using Services.Interfaces;
 using Services.Services;
+using System;
+using System.IO;
+using System.Reflection;
 
 namespace API
 {
@@ -35,6 +34,7 @@ namespace API
         {
 
             services.AddControllers();
+            services.AddCors();
 
             #region swagger
             services.AddSwaggerGen(c =>
@@ -101,6 +101,12 @@ namespace API
 
             app.UseRouting();
 
+            app.UseCors(x => x
+               .AllowAnyMethod()
+               .AllowAnyHeader()
+               .SetIsOriginAllowed(origin => true) // allow any origin
+               .AllowCredentials()); // allow credentials
+
             app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>
@@ -109,14 +115,16 @@ namespace API
             });
 
              app.UseSwagger(c =>
-                {
+             {
                     c.RouteTemplate = "WishListAPI/swagger/{documentName}/swagger.json";
-                });
+             });
                 app.UseSwaggerUI(c =>
                  {
                      c.SwaggerEndpoint("/WishListAPI/swagger/v1/swagger.json", "WishListAPI v1");
                      c.RoutePrefix = "WishListAPI/swagger";
                  });
+
+           
         }
     }
 }

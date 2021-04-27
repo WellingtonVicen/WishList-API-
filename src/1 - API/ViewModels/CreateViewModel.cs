@@ -1,13 +1,12 @@
-using System.ComponentModel.DataAnnotations;
 using ExpressiveAnnotations.Attributes;
 using Microsoft.AspNetCore.Http;
+using System.ComponentModel.DataAnnotations;
 
 
 namespace API.ViewModels
 {
     public class CreateViewModel
     {
-        [Required(ErrorMessage = "O titulo não pode estar nulo.")]
         [MinLength(3, ErrorMessage = "O titulo deve ter no minimo 3 caracteres.")]
         [MaxLength(100, ErrorMessage = "O titulo deve ter no maximo 100 caracteres.")]
         public string Title { get; set; }

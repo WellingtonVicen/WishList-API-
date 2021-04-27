@@ -1,5 +1,5 @@
-using System.Collections.Generic;
 using API.ViewModels;
+using System.Collections.Generic;
 
 namespace API.Utilities
 {
